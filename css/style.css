@@ -80,7 +80,7 @@ ul, ol {
 #menu a.navbar-brand {
 	text-transform: uppercase;
 	font-size: 22px;
-	color: #fff;
+	color: #0099cc; /*Logo-Name section*/
 	font-weight: 600;
 	background-image: url(../img/logo-icon.png);
 	background-position: left center;
@@ -92,7 +92,7 @@ ul, ol {
 }
 #menu.navbar-default .navbar-nav > li > a {
 	text-transform: uppercase;
-	color: #ffffff;
+	color: #0099cc;  /*Home, About section*/
 	font-size: 12px;
 	letter-spacing: 1px;
 	font-weight: 500;
@@ -127,7 +127,7 @@ header {
 	height: 100%;
 }
 header p {
-	color: #ffffff;
+	color: #3A427E; /*paragraph-section of home page*/
 	font-size: 18px;
 	text-transform: uppercase;
 	margin-bottom: 60px;
@@ -143,7 +143,7 @@ header p {
 .intro-text H1 {
 	font-size: 70px;
 	text-transform: uppercase;
-	color: #FFFFFF;
+	color: #0099cc;
 	font-weight: 500;
 }
 .intro-text .brand {
